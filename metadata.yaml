@@ -1,11 +1,16 @@
 _repo: The-Golden-South-Memories-of-Australian-Home-Life-from-1843-to-1888_57484
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57484-h/images/cover.jpg
 creator:
   author:
     agent_name: Kathleen, Lambert
     gutenberg_agent_id: '49412'
     url: http://www.gutenberg.org/2009/agents/49412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57484#The-Golden-South-Memories-of-Australian-Home-Life-from-1843-to-1888
 gutenberg_issued: '2018-07-11'
 gutenberg_type: Text
 identifiers:
